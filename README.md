@@ -22,4 +22,5 @@ Monads - Eric Lippert
 
 #### Hashing and Hash codes
 [Guidelines and rules for GetHashCode](http://blogs.msdn.com/b/ericlippert/archive/2011/02/28/guidelines-and-rules-for-gethashcode.aspx)
+
 [Why do hash functions use prime numbers?](http://computinglife.wordpress.com/2008/11/20/why-do-hash-functions-use-prime-numbers/)

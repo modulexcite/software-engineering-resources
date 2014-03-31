@@ -19,6 +19,7 @@ Monads - Eric Lippert
   - http://ericlippert.com/2013/04/02/monads-part-twelve/
 
 [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
+
 [Tasks, Monads, and LINQ](http://blogs.msdn.com/b/pfxteam/archive/2013/04/03/tasks-monads-and-linq.aspx)
 
 #### Hashing and Hash codes

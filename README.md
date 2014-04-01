@@ -26,3 +26,6 @@ Monads - Eric Lippert
 [Guidelines and rules for GetHashCode](http://blogs.msdn.com/b/ericlippert/archive/2011/02/28/guidelines-and-rules-for-gethashcode.aspx)
 
 [Why do hash functions use prime numbers?](http://computinglife.wordpress.com/2008/11/20/why-do-hash-functions-use-prime-numbers/)
+
+### Threading in C#
+[Can I skip the lock when reading an integer?](http://blog.coverity.com/2014/03/12/can-skip-lock-reading-integer/#.UzqnEOIzH0x)

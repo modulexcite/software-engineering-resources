@@ -31,3 +31,10 @@ Monads - Eric Lippert
 
 ### Threading in C#
 [Can I skip the lock when reading an integer?](http://blog.coverity.com/2014/03/12/can-skip-lock-reading-integer/#.UzqnEOIzH0x)
+
+### Async/Await in C#
+[sync and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
+[Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
+[Async/Await FAQ](http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/10293335.aspx)
+["Invoke the method with await"...ugh!](http://blogs.msdn.com/b/pfxteam/archive/2013/03/13/quot-invoke-the-method-with-await-quot-ugh.aspx)
+[]()

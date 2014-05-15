@@ -34,7 +34,10 @@ Monads - Eric Lippert
 
 ### Async/Await in C#
 [sync and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
+
 [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
+
 [Async/Await FAQ](http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/10293335.aspx)
+
 ["Invoke the method with await"...ugh!](http://blogs.msdn.com/b/pfxteam/archive/2013/03/13/quot-invoke-the-method-with-await-quot-ugh.aspx)
 []()

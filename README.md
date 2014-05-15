@@ -33,7 +33,7 @@ Monads - Eric Lippert
 [Can I skip the lock when reading an integer?](http://blog.coverity.com/2014/03/12/can-skip-lock-reading-integer/#.UzqnEOIzH0x)
 
 ### Async/Await in C#
-[sync and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
+[Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
 [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
 

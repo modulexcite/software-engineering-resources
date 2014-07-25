@@ -35,6 +35,8 @@ Monads - Eric Lippert
 ### Async/Await in C#
 [Async and Await (Stephen Cleary)](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
+[Don't block on async code (Stephen Cleary)](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
+
 [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
 
 [Async/Await FAQ](http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/10293335.aspx)

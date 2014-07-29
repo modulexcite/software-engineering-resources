@@ -29,10 +29,10 @@ Monads - Eric Lippert
 
 [Why do hash functions use prime numbers?](http://computinglife.wordpress.com/2008/11/20/why-do-hash-functions-use-prime-numbers/)
 
-### Threading in C\#
+### Threading in C&#35;
 [Can I skip the lock when reading an integer?](http://blog.coverity.com/2014/03/12/can-skip-lock-reading-integer/#.UzqnEOIzH0x)
 
-### Async/Await in C\#
+### Async/Await in C&#35;
 [Async and Await (Stephen Cleary)](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
 [Don't block on async code (Stephen Cleary)](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)

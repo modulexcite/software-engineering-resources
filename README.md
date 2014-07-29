@@ -1,6 +1,6 @@
 ## Software engineering articles and resources
 
-A collection of articles which I use to document the things I've learned or am learning and a reminder on the things I need to keep working on to keep improving and refining my craft.
+A collection of articles which I use to document the things I've learned or am learning and a reminder on the things I need to revisit.
 
 ### Programming Lanauge Theory
 #### Monads
@@ -29,10 +29,10 @@ Monads - Eric Lippert
 
 [Why do hash functions use prime numbers?](http://computinglife.wordpress.com/2008/11/20/why-do-hash-functions-use-prime-numbers/)
 
-### Threading in C#
+### Threading in C\#
 [Can I skip the lock when reading an integer?](http://blog.coverity.com/2014/03/12/can-skip-lock-reading-integer/#.UzqnEOIzH0x)
 
-### Async/Await in C#
+### Async/Await in C\#
 [Async and Await (Stephen Cleary)](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
 [Don't block on async code (Stephen Cleary)](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)

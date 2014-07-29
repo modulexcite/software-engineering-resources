@@ -50,3 +50,10 @@ Monads - Eric Lippert
 [Task-based Asynchronous Pattern (TAP) (MSDN)](http://msdn.microsoft.com/en-us/library/hh873175.aspx)
 
 [Asynchronous Programming with Async and Await (MSDN)](http://msdn.microsoft.com/en-us/library/hh191443.aspx)
+
+### Dynamic runtime/keyword in C&#35;
+
+[Dynamic Method Bags (MSDN)](http://msdn.microsoft.com/library/ee658247)
+
+[Creating Wrappers with DynamicObject (Alexandra Rusina)](http://blogs.msdn.com/b/csharpfaq/archive/2009/10/19/dynamic-in-c-4-0-creating-wrappers-with-dynamicobject.aspx)
+

@@ -42,4 +42,11 @@ Monads - Eric Lippert
 [Async/Await FAQ](http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/10293335.aspx)
 
 ["Invoke the method with await"...ugh!](http://blogs.msdn.com/b/pfxteam/archive/2013/03/13/quot-invoke-the-method-with-await-quot-ugh.aspx)
-[]()
+
+[Task Exception Handling in .NET 4.5 (Stephen Toub)](http://blogs.msdn.com/b/pfxteam/archive/2011/09/28/10217876.aspx)
+
+[Await, and UI, and deadlocks! Oh my! (Stephen Toub)](http://blogs.msdn.com/b/pfxteam/archive/2011/01/13/10115163.aspx)
+
+[Task-based Asynchronous Pattern (TAP) (MSDN)](http://msdn.microsoft.com/en-us/library/hh873175.aspx)
+
+[Asynchronous Programming with Async and Await (MSDN)](http://msdn.microsoft.com/en-us/library/hh191443.aspx)

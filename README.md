@@ -51,6 +51,17 @@ Monads - Eric Lippert
 
 [Asynchronous Programming with Async and Await (MSDN)](http://msdn.microsoft.com/en-us/library/hh191443.aspx)
 
+Asynchrony - Eric Lippert
+  - [Asynchrony in C# 5, Part One](http://blogs.msdn.com/b/ericlippert/archive/2010/10/28/asynchrony-in-c-5-part-one.aspx)
+  - [Asynchronous Programming in C# 5.0 part two: Whence await?](http://blogs.msdn.com/b/ericlippert/archive/2010/10/29/asynchronous-programming-in-c-5-0-part-two-whence-await.aspx)
+  - [Asynchrony in C# 5, Part Three: Composition](http://blogs.msdn.com/b/ericlippert/archive/2010/11/01/asynchrony-in-c-5-part-three-composition.aspx)
+  - [Asynchrony in C# 5.0 part Four: It's not magic](http://blogs.msdn.com/b/ericlippert/archive/2010/11/04/asynchrony-in-c-5-0-part-four-it-s-not-magic.aspx)
+  - [Asynchrony in C# 5 Part Five: Too many tasks](http://blogs.msdn.com/b/ericlippert/archive/2010/11/08/asynchrony-in-c-5-part-five-too-many-tasks.aspx)
+  - [Asynchrony in C# 5 Part Six: Whither async?](http://blogs.msdn.com/b/ericlippert/archive/2010/11/11/whither-async.aspx)
+  - [Asynchrony in C# 5, Part Seven: Exceptions](http://blogs.msdn.com/b/ericlippert/archive/2010/11/19/asynchrony-in-c-5-part-seven-exceptions.aspx)
+  - [Asynchrony in C# 5, Part Eight: More Exceptions](http://blogs.msdn.com/b/ericlippert/archive/2010/11/23/asynchrony-in-c-5-part-eight-more-exceptions.aspx)
+
+
 ### Dynamic runtime/keyword in C&#35;
 
 [Dynamic Method Bags (MSDN)](http://msdn.microsoft.com/library/ee658247)

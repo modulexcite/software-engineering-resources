@@ -37,6 +37,8 @@ Monads - Eric Lippert
 
 [Don't block on async code (Stephen Cleary)](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
 
+[There is no thread (Stephen Cleary)](http://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+
 [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
 
 [Async/Await FAQ](http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/10293335.aspx)
